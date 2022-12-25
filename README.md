@@ -19,11 +19,6 @@ In this course, instructor Nikiya Simpson guides you through four main types of 
 
 5. This course outputs files in HTML format in Chapter 1. You can also use .line or .column formats as well if you are not as familiar with HTML. 
 
-### Instructor
-
-Nikiya Simpson
-
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/nikiya-simpson?u=104).
 
 [lil-course-url]: https://www.linkedin.com/learning/practice-it-sql-joins
 [gcs-video-url]: https://www.linkedin.com/learning/practice-it-sql-joins/getting-started-with-github-codespaces
